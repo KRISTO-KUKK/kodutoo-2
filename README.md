@@ -43,7 +43,7 @@ Lisasin heli:
 - mängu lõpus
 - siis kui tulemus läheb edetabelisse
 
-### 10. 3 lisafeature'it
+### 9. lisafeature'id
 Lisasin:
 - raskusastme valiku
 - täpsuse näitamise
